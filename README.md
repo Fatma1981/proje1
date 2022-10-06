@@ -2,5 +2,5 @@
 
 <h3>GIF RESMİ</h3>
 
-![](ekran.gif)
+
 

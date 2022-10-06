@@ -1,8 +1,6 @@
-<h3> Son Proje Odevi </h3>
+<h2> YZILIM DENEMELERI</h2>
 
-<h4>Yeni Deneme </h4>
+<h3>GIF RESMİ</h3>
 
-<h4>Ekran Gif </h4>
-
-![erkan gifi](ekran.gif)
+![](ekran.gif)
 
